@@ -1,0 +1,8 @@
+pypdfium2==4.25.0
+Pillow==10.1.0
+numpy==1.26.2
+pytesseract==0.3.10
+layoutparser==0.3.4
+torch==2.1.1
+torchvision==0.16.1
+git+https://github.com/facebookresearch/detectron2.git@a0e22dbfa791e6235e4f196d5ce25e754d02be31#egg=detectron2
