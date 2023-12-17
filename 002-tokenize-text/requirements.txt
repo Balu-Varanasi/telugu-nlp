@@ -1,0 +1,2 @@
+stanza==1.7.0
+indic-nlp-library==0.92
