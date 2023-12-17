@@ -23,7 +23,7 @@ $ source .venv/bin/activate
 (.venv) $ pip install --upgrade pip  # make sure pip is up-to-date
 (.venv) $ pip install -r requirements.txt
 (.venv) $ python extract_text_from_old_chandamama.py
-(.venv) $ deactive
+(.venv) $ deactivate
 $ 
 ```
 
