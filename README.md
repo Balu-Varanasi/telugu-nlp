@@ -84,6 +84,7 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 1. [Telugu Tokenizer and Stemmer](https://github.com/chraghavendra/Telugu_tokenizer_stemmer) by [chraghavendra](https://github.com/chraghavendra/)
 2. [Telugu Language — Lemmatization & POS Tag Extraction](https://medium.com/@nirupampratap/telugu-language-lemmatization-pos-tag-extraction-96adc681780d) by [Nirupam Purushothama](https://medium.com/@nirupampratap)
 3. [Sangita](https://github.com/SangitaNLP/sangita/). A Natural Language Toolkit for Indian Languages. (currently supports only Hindi).
+4. [Program for tokenizing Indian language inp](https://github.com/anoopkunchukuttan/indic_nlp_library/blob/master/indicnlp/tokenize/indic_tokenize.py) by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan).
 
 ### Spell Checker
 
