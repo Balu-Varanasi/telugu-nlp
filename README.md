@@ -2,21 +2,23 @@
 
 ## Papers
 
-1. [Hindi Shabdamitra](https://www.cfilt.iitb.ac.in/hindishabdamitra/) - [A Wordnet based Tool for Enhancing Teaching-Learning Process](https://aclanthology.org/W17-7531.pdf) by Hanumant Redkar, Nilesh Joshi, Sayali Khare, Lata Popale, Malhar Kulkarni and Pushpak Bhattacharyya - Center for Indian Language Technology, Indian Institute of Technology Bombay, India.
-2. [Hindi Shabdamitra](https://www.cfilt.iitb.ac.in/hindishabdamitra/) - [A Wordnet based E-Learning Tool for Language Learning and Teaching](https://aclanthology.org/W17-5904.pdf) by Hanumant Redkar, Sandhya Singh, Meenakshi Somasundaram, Dhara Gorasia, Malhar Kulkarni and Pushpak Bhattacharyya - Center for Indian Language Technology, Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Mumbai, India.
-3. [The WordNet in Indian Languages](https://www.academia.edu/70092605/The_WordNet_in_Indian_Languages)
-4. [Using Parallel Corpora for Language Learning](https://www.researchgate.net/publication/328094165_Using_Parallel_Corpora_for_Language_Learning) by Michael H. Brown, Kanda Institute of Foreign Languages in Tokyo, Japan.
+1. [Enhancing human learning via spaced repetitionoptimization](https://www.pnas.org/doi/epdf/10.1073/pnas.1815156116) - Behzad Tabibiana,b,1, Utkarsh Upadhyaya, Abir Dea, Ali Zarezadea, Bernhard Sch ̈olkopfb, and Manuel Gomez-RodriguezaaNetworks Learning Group, Max Planck Institute for Software Systems, 67663 Kaiserslautern, Germany; andbEmpirical Inference Department, Max PlanckInstitute for Intelligent Systems, 72076 T ̈ubingen, GermanyEdited by Richard M. Shiffrin, Indiana University, Bloomington, IN, and approved December 14, 2018 (received for review September 3, 2018)
+    - [Memorize](https://github.com/Networks-Learning/memorize) - Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019
+2. [Hindi Shabdamitra](https://www.cfilt.iitb.ac.in/hindishabdamitra/) - [A Wordnet based Tool for Enhancing Teaching-Learning Process](https://aclanthology.org/W17-7531.pdf) by Hanumant Redkar, Nilesh Joshi, Sayali Khare, Lata Popale, Malhar Kulkarni and Pushpak Bhattacharyya - Center for Indian Language Technology, Indian Institute of Technology Bombay, India.
+3. [Hindi Shabdamitra](https://www.cfilt.iitb.ac.in/hindishabdamitra/) - [A Wordnet based E-Learning Tool for Language Learning and Teaching](https://aclanthology.org/W17-5904.pdf) by Hanumant Redkar, Sandhya Singh, Meenakshi Somasundaram, Dhara Gorasia, Malhar Kulkarni and Pushpak Bhattacharyya - Center for Indian Language Technology, Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Mumbai, India.
+4. [The WordNet in Indian Languages](https://www.academia.edu/70092605/The_WordNet_in_Indian_Languages)
+5. [Using Parallel Corpora for Language Learning](https://www.researchgate.net/publication/328094165_Using_Parallel_Corpora_for_Language_Learning) by Michael H. Brown, Kanda Institute of Foreign Languages in Tokyo, Japan.
    - (another aricle) [Language Learning via Parallel Corpora](https://lexplorers.com/language-learning-via-parallel-corpora/). 
-5. [Learning in Parallel: Using Parallel Corpora to Enhance Written Language Acquisition at the Beginning Level](https://files.eric.ed.gov/fulltext/EJ1080263.pdf) by Brody Bluemel, The Pennsylvania State University.
-6. [CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf) by Devansh Gautam, Prashant Kodali, Kshitij Gupta, Anmol Goel, Manish Shrivastava, Ponnurangam Kumaraguru - International Institute of Information Technology Hyderabad & Indraprastha Institute of Information Technology Delhi & Guru Gobind Singh Indraprastha University, Delhi
-7. [The LTRC Hindi-Telugu Parallel Corpus](https://aclanthology.org/2022.lrec-1.365.pdf) by Vandan Mujadia, Dipti Misra Sharma, MT-NLP Lab, LTRC, KCIS, IIIT-Hyderabad, India.
-8. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
-9. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
-10. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
-11. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
-12. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
-13. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
-14. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
+6. [Learning in Parallel: Using Parallel Corpora to Enhance Written Language Acquisition at the Beginning Level](https://files.eric.ed.gov/fulltext/EJ1080263.pdf) by Brody Bluemel, The Pennsylvania State University.
+7. [CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf) by Devansh Gautam, Prashant Kodali, Kshitij Gupta, Anmol Goel, Manish Shrivastava, Ponnurangam Kumaraguru - International Institute of Information Technology Hyderabad & Indraprastha Institute of Information Technology Delhi & Guru Gobind Singh Indraprastha University, Delhi
+8. [The LTRC Hindi-Telugu Parallel Corpus](https://aclanthology.org/2022.lrec-1.365.pdf) by Vandan Mujadia, Dipti Misra Sharma, MT-NLP Lab, LTRC, KCIS, IIIT-Hyderabad, India.
+9. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
+10. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
+11. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
+12. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
+13. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
+14. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
+15. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
 
 ## Corpara and word lists
 
@@ -108,6 +110,7 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 10. [Sentiment Analysis of Twitter Data using NLTK in Python](https://tudr.thapar.edu:8443/jspui/bitstream/10266/4273/4/4273.pdf).
 11. [Text Analytics with Python](https://kfsyscc.github.io/attachments/IT/Text_Analytics_with_Python.pdf).
 12. [Project Chalam](https://projectchalam.avilpage.com/) - Telugu Books.
+13. [Memorize](https://github.com/Networks-Learning/memorize) - Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019
 
 
 ## Surveys
