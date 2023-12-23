@@ -19,6 +19,14 @@
 13. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
 14. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
 15. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
+16. [Identifying Context-Dependent Translations for Evaluation Set Production](https://aclanthology.org/2023.wmt-1.42.pdf)
+    ```text
+        Rachel Wicks 1,2 and Matt Post 1−3
+    
+        1. Human Language Technology Center of Excellence, Johns Hopkins University
+        2. Center of Language and Speech Processing, Johns Hopkins University
+        3. Microsoft rewicks@jhu.edu, mattpost@microsoft.com
+    ```
 
 ## Corpara and word lists
 
