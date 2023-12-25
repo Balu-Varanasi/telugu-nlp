@@ -153,3 +153,32 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
   - [Data Collection](https://ai4bharat.iitm.ac.in/data-collection/)
   - [Models](https://ai4bharat.iitm.ac.in/resources/models/)
 - https://niceorg.in/
+- [హార్ట్ ఫుల్ నెస్ - ప్రేమతో పురోగమనం - ప్రేమపూర్వక సంభాషణ](https://cdn-prod-static.heartfulness.org/HFN_MAG_AUG_21_TELUGU_4a0e79ae83.pdf)
+- [సైకో థెరపీ అంటే ఏమిటి?](https://samhin.org/wp-content/uploads/What-is-Psychotherapy-Telugu.pdf)
+- [కళ ఆధారిత అభ్యాసన](https://itpd.ncert.gov.in/pluginfile.php/1226731/mod_page/content/2/m-3%20final3%2851219%29.pdf)
+
+
+## Learning Telugu
+- [నవ వసంతం 1 - తెలుగు వాచకం - ఆరో తరగతి](https://scert.telangana.gov.in/pdf/publication/ebooks2019/6th%20class%20telugu%20fl.pdf)
+- [SCERT - Telangana](https://scert.telangana.gov.in/Displaycontent.aspx?encry=ammkNW4/gx+NeApstGPX+A==)
+
+## Agriculture, Farming, Gardening, Herbs and Ayurveda
+- [FDR - Foundation for Democratic Reforms](https://ekcenter.fdrindia.org/)
+- [వ్యవసాయం - నష్టాల బాట నుంచి లాభాల బాటలోకి - Dr. జయప్రకాష్ నారాయణ](https://ekcenter.fdrindia.org/sites/default/files/books/Agriculture%20Book.pdf)
+- [ప్రధాన మంత్రి మైక్రో ఫుడ్ ప్రాసెసింగ్ ఎంట్రప్రెస్స్ స్కీం](https://tsfps.telangana.gov.in/pmfme/wp-content/uploads/sites/2/2021/09/SchemeBrochureII-Telugu-1-1.pdf)
+- [Charaka Samhita Vimanasthanamu](https://ia601507.us.archive.org/34/items/in.ernet.dli.2015.372483/2015.372483.Charaka-Samhita-vimana.pdf)
+- [Farming a Few Acres of Herbs: An Herb Growers Handbook](https://bookstore.ksre.ksu.edu/pubs/s144.pdf)
+- [Herbal Gardens](https://hrdiuk.org/images/Herbal-Gardens.pdf)
+- [Natural Farming: Oriental Herbal Nutrient](https://www.ctahr.hawaii.edu/oc/freepubs/pdf/sa-11.pdf)
+- [Ayurveda Offering - Herbal Healing](https://www.esic.nic.in/attachments/publicationfile/7d11b02e5abb4717d53b4ce05efabd21.pdf)
+- [Ayurvedic Business Opportunity in India](https://www.uniraylifesciences.co.in/ayurvedic-business-opportunity-in-india/)
+- [The ayurvedic medicine industry: Current status and sustainability](https://www.iied.org/sites/default/files/pdfs/migrate/9189IIED.pdf)
+- [Exploring Potential for Medicinal Plants Cultivation in Telangana](https://naarm.org.in/wp-content/uploads/2021/07/2018_TSMPB_Medicinal_plant.pdf)
+
+## Self Employment
+- [Self-employment - agcas](https://www.ed.ac.uk/files/imports/fileManager/AGCAS%20Self-employment.pdf)
+- [Bizup - Self-employment skills for young people](https://www.ilo.org/wcmsp5/groups/public/@ed_emp/documents/instructionalmaterial/wcms_119346.pdf)
+- [We are all self-employed](https://www.bkconnection.com/static/We_Are_All_Self-Employed_EXCERPT.pdf)
+- [The Skills You Need Guide to SELF-EMPLOYMENT AND RUNNING YOUR OWN BUSINESS](https://www.skillsyouneed.com/docs/self-employment-running-business-preview.pdf)
+- [Self-employment, Small Firms and Enterprise](https://iea.org.uk/wp-content/uploads/2016/07/IEA%20Self-employment%20web%20complete%2022.9.11.pdf)
+- [The Handbook of Research on Freelancing and Self-Employment](https://crse.co.uk/sites/default/files/The%20Handbook%20of%20Research%20on%20Freelancing%20and%20Self-Employment_0.pdf)
