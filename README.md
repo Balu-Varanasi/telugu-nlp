@@ -27,6 +27,44 @@
         2. Center of Language and Speech Processing, Johns Hopkins University
         3. Microsoft rewicks@jhu.edu, mattpost@microsoft.com
     ```
+17. [Enabling Code-Mixed Translation: Parallel Corpus Creation and MT Augmentation Approach](https://aclanthology.org/W18-3817.pdf) 
+    ```text
+        By:
+        1. Mrinal Dhar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
+        2. Vaibhav Kumar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
+        3. Manish Shrivastava, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
+    ```
+18. [Sentiment Analysis in Code-Mixed Telugu-English Text with Unsupervised Data Normalization](https://aclanthology.org/2021.ranlp-1.86.pdf)
+    ```text
+        By:
+        1. Kusampudi Siva Subrahamanyam Varma, Language Technologies Research Centre, IIIT Hyderabad, India.
+        2. Preetham Sathineni, Language Technologies Research Centre, IIIT Hyderabad, India.
+        3. Radhika Mamidi, Language Technologies Research Centre, IIIT Hyderabad, India.
+    ```
+19. [Development of Telugu-Tamil Transfer-Based Machine Translation system: With Special reference to Divergence Index](https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_07.pdf)
+    ```text
+        By K. Parameswari, Centre for Applied Linguistics and Translation Studies, University of Hyderabad
+    ```
+20. [A Rule-based Dependency Parser for Telugu: An Experiment with Simple Sentences](https://www.ntm.org.in/download/ttvol/volume15-1/MT%202.pdf)
+    ```text
+        By:
+        1. SANGEETHA P., PARAMESWARI K.
+        2. AMBA KULKARNI
+    ```
+21. [Computational Morphology for Telugu](https://www.researchgate.net/publication/329097305_Computational_Morphology_for_Telugu)
+    ```text
+        By:
+        1. B. Srinivasu, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
+        2. R. Manivannan, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
+    ```
+
+22. [Neural Dependency Parsing of Low-resource Languages: A Case Study on Marathi](https://uu.diva-portal.org/smash/get/diva2:1671791/FULLTEXT01.pdf)
+23. [Telugu dependency parsing using different statistical parsers](https://www.sciencedirect.com/science/article/pii/S1319157815000798)
+24. [Dative Case in Telugu: A Parsing Perspective](https://aclanthology.org/W12-5612.pdf)
+25. [Parsing Hindi with MDParser ](https://aclanthology.org/W12-5615.pdf)
+26. [Two-stage Approach for Hindi Dependency Parsing Using MaltParser](https://aclanthology.org/W12-5617.pdf)
+27. [Hindi Dependency Parsing using a combined model of Malt and MST](https://aclanthology.org/W12-5618.pdf)
+28. [Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages](https://aclanthology.org/W12-5619.pdf)
 
 ## Corpara and word lists
 
@@ -44,12 +82,14 @@
 12. [LOIT](https://github.com/bedapudi6788/LOIT) (Lot of Indic Tweets) by [Bedapudi Praneeth](https://github.com/bedapudi6788/)
 13. [English Telugu Bilingual Sentence Pairs](https://github.com/scionoftech/English_Telugu_Bilingual-Sentence-Pairs) by [
 Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sentence-Pairs dataset contains English sentances translated into Telugu language and it has total 155798 sentences.
+14. [Telugu Terms by etymology](https://en.wiktionary.org/wiki/Category:Telugu_terms_by_etymology) by [Wiktionary](https://en.wiktionary.org/)
 
 ### Code Mixed or Code Switching
 
 1. [Word Level Language Identification in English Telugu Code Mixed Data](https://github.com/SunilGundapu/Word-Level-Language-Identification-in-English-Telugu-Code-Mixed-Data/tree/master)
 2. [EN-TE Transliteration Dataset](https://github.com/notAI-tech/Datasets/)
 3. [Code Switched Papers](https://github.com/gentaiscool/code-switching-papers)
+4. [A Tale of Two Languages: The Code Mixing story](https://wiprotechblogs.medium.com/a-tale-of-two-languages-the-code-switch-mix-story-d88e105b07f4) by [Arindam Chatterjee](https://www.linkedin.com/in/arindam-chatterjee-bb305b14/)
 
 ```
 1. [en_te_wiki_titles](https://github.com/notAI-tech/Datasets/releases/download/En-Te_Transliteration/v1.en_te_wiki_titles.txt):
