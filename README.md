@@ -12,14 +12,22 @@
 6. [Learning in Parallel: Using Parallel Corpora to Enhance Written Language Acquisition at the Beginning Level](https://files.eric.ed.gov/fulltext/EJ1080263.pdf) by Brody Bluemel, The Pennsylvania State University.
 7. [CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf) by Devansh Gautam, Prashant Kodali, Kshitij Gupta, Anmol Goel, Manish Shrivastava, Ponnurangam Kumaraguru - International Institute of Information Technology Hyderabad & Indraprastha Institute of Information Technology Delhi & Guru Gobind Singh Indraprastha University, Delhi
 8. [The LTRC Hindi-Telugu Parallel Corpus](https://aclanthology.org/2022.lrec-1.365.pdf) by Vandan Mujadia, Dipti Misra Sharma, MT-NLP Lab, LTRC, KCIS, IIIT-Hyderabad, India.
-9. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
-10. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
-11. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
-12. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
-13. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
-14. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
-15. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
-16. [Identifying Context-Dependent Translations for Evaluation Set Production](https://aclanthology.org/2023.wmt-1.42.pdf)
+9. [DuoLingo - Persuasive Language Learning - Qualitative research on user engagement in the persuasive system design of Duolingo](https://hj.diva-portal.org/smash/get/diva2:1773780/FULLTEXT01.pdf)
+    ```text
+        Authors: Sofie Kastelli, Napsugár Takács
+        Supervisor: Ulf Linnman
+        Field of research: Informatics
+        Date: 1st of June 2023
+        Jönköping University 2023
+    ```
+10. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
+11. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
+12. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
+13. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
+14. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
+15. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
+16. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
+17. [Identifying Context-Dependent Translations for Evaluation Set Production](https://aclanthology.org/2023.wmt-1.42.pdf)
     ```text
         Rachel Wicks 1,2 and Matt Post 1−3
     
@@ -27,44 +35,44 @@
         2. Center of Language and Speech Processing, Johns Hopkins University
         3. Microsoft rewicks@jhu.edu, mattpost@microsoft.com
     ```
-17. [Enabling Code-Mixed Translation: Parallel Corpus Creation and MT Augmentation Approach](https://aclanthology.org/W18-3817.pdf) 
+18. [Enabling Code-Mixed Translation: Parallel Corpus Creation and MT Augmentation Approach](https://aclanthology.org/W18-3817.pdf) 
     ```text
         By:
         1. Mrinal Dhar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
         2. Vaibhav Kumar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
         3. Manish Shrivastava, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
     ```
-18. [Sentiment Analysis in Code-Mixed Telugu-English Text with Unsupervised Data Normalization](https://aclanthology.org/2021.ranlp-1.86.pdf)
+19. [Sentiment Analysis in Code-Mixed Telugu-English Text with Unsupervised Data Normalization](https://aclanthology.org/2021.ranlp-1.86.pdf)
     ```text
         By:
         1. Kusampudi Siva Subrahamanyam Varma, Language Technologies Research Centre, IIIT Hyderabad, India.
         2. Preetham Sathineni, Language Technologies Research Centre, IIIT Hyderabad, India.
         3. Radhika Mamidi, Language Technologies Research Centre, IIIT Hyderabad, India.
     ```
-19. [Development of Telugu-Tamil Transfer-Based Machine Translation system: With Special reference to Divergence Index](https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_07.pdf)
+20. [Development of Telugu-Tamil Transfer-Based Machine Translation system: With Special reference to Divergence Index](https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_07.pdf)
     ```text
         By K. Parameswari, Centre for Applied Linguistics and Translation Studies, University of Hyderabad
     ```
-20. [A Rule-based Dependency Parser for Telugu: An Experiment with Simple Sentences](https://www.ntm.org.in/download/ttvol/volume15-1/MT%202.pdf)
+21. [A Rule-based Dependency Parser for Telugu: An Experiment with Simple Sentences](https://www.ntm.org.in/download/ttvol/volume15-1/MT%202.pdf)
     ```text
         By:
         1. SANGEETHA P., PARAMESWARI K.
         2. AMBA KULKARNI
     ```
-21. [Computational Morphology for Telugu](https://www.researchgate.net/publication/329097305_Computational_Morphology_for_Telugu)
+22. [Computational Morphology for Telugu](https://www.researchgate.net/publication/329097305_Computational_Morphology_for_Telugu)
     ```text
         By:
         1. B. Srinivasu, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
         2. R. Manivannan, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
     ```
 
-22. [Neural Dependency Parsing of Low-resource Languages: A Case Study on Marathi](https://uu.diva-portal.org/smash/get/diva2:1671791/FULLTEXT01.pdf)
-23. [Telugu dependency parsing using different statistical parsers](https://www.sciencedirect.com/science/article/pii/S1319157815000798)
-24. [Dative Case in Telugu: A Parsing Perspective](https://aclanthology.org/W12-5612.pdf)
-25. [Parsing Hindi with MDParser ](https://aclanthology.org/W12-5615.pdf)
-26. [Two-stage Approach for Hindi Dependency Parsing Using MaltParser](https://aclanthology.org/W12-5617.pdf)
-27. [Hindi Dependency Parsing using a combined model of Malt and MST](https://aclanthology.org/W12-5618.pdf)
-28. [Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages](https://aclanthology.org/W12-5619.pdf)
+23. [Neural Dependency Parsing of Low-resource Languages: A Case Study on Marathi](https://uu.diva-portal.org/smash/get/diva2:1671791/FULLTEXT01.pdf)
+24. [Telugu dependency parsing using different statistical parsers](https://www.sciencedirect.com/science/article/pii/S1319157815000798)
+25. [Dative Case in Telugu: A Parsing Perspective](https://aclanthology.org/W12-5612.pdf)
+26. [Parsing Hindi with MDParser ](https://aclanthology.org/W12-5615.pdf)
+27. [Two-stage Approach for Hindi Dependency Parsing Using MaltParser](https://aclanthology.org/W12-5617.pdf)
+28. [Hindi Dependency Parsing using a combined model of Malt and MST](https://aclanthology.org/W12-5618.pdf)
+29. [Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages](https://aclanthology.org/W12-5619.pdf)
 
 ## Corpara and word lists
 
