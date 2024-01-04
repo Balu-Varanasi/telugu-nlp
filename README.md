@@ -9,11 +9,11 @@ Welcome to the Telugu Natural Language Processing (NLP) Project! This open-sourc
 ### 1. **Resource Compilation**
 To create a comprehensive database of publicly available linguistic resources for Telugu, including dictionaries, grammar guides, texts, audio-visual materials, and research papers, and ensure they are accessible and properly formatted for NLP applications.
 
-### 2. **Machine Translation Enhancement**
-To significantly improve the machine translation capabilities for Telugu, facilitating better translation both from and into other languages, thus enhancing communication and understanding.
-
-### 3. **Educational Tools Development**
+### 2. **Educational Tools Development**
 To develop a range of interactive educational tools, such as language learning apps, grammar checkers, and writing aids, specifically designed to support and enhance the learning experience for Telugu learners and educators.
+
+### 3. **Machine Translation Enhancement**
+To significantly improve the machine translation capabilities for Telugu, facilitating better translation both from and into other languages, thus enhancing communication and understanding.
 
 ### 4. **Linguistic Research Support**
 To provide advanced tools and comprehensive datasets for linguistic research, including sophisticated corpus analysis tools and extensive databases, to document and analyze the unique linguistic features of Telugu.
