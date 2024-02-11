@@ -60,12 +60,12 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 2. [ni_bondha_comments](https://github.com/notAI-tech/Datasets/releases/download/En-Te_Transliteration/v1.ni_bondha_comment_words.txt):
 
     contains 24,757 word en-te pairs.
-    
+
     The english versions of telugu words are obtained from the subreddit [r/Ni_Bondha](https://www.reddit.com/r/Ni_Bondha/).
-    
+
     The corresponding telugu words are obtained by ranking transliterations of the subreddit comments from multiple models and APIs,
   using a [flair](https://github.com/zalandoresearch/flair) based character lm trained on Telugu text.
-  
+
     Please note that english words are not lower-cased in this data. Since the english words are human written, we decided to retain the capitalization information in this release. Only punctuation was removed.
 ```
 
@@ -96,9 +96,10 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 3. [Sangita](https://github.com/SangitaNLP/sangita/). A Natural Language Toolkit for Indian Languages. (currently supports only Hindi).
 4. [Program for tokenizing Indian language inp](https://github.com/anoopkunchukuttan/indic_nlp_library/blob/master/indicnlp/tokenize/indic_tokenize.py) by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan).
 
-### Spell Checker
+### Spell Checker and Error Correction
 
 1. [Telugu Spell check](https://github.com/ChillarAnand/likitham/blob/master/scripts/spell_check.py) by [Chillar Anand](https://github.com/ChillarAnand/).
+2. [Grammatical Error Correction using Deep Learning](https://medium.com/@rohansawant7978/grammatical-error-correction-using-deep-learning-ad53044c0977)
 
 ### Syllables
 
@@ -126,6 +127,7 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 
 
 ## Reading
+- [మాతృభాషే ఎందుకు?](https://telugukootami.org/wp-content/uploads/2022/06/%E0%B0%AE%E0%B0%BE%E0%B0%A4%E0%B1%83%E0%B0%AD%E0%B0%BE%E0%B0%B7%E0%B1%87-%E0%B0%8E%E0%B0%82%E0%B0%A6%E0%B1%81%E0%B0%95%E0%B1%81.pdf)
 - [The digital language divide](https://labs.theguardian.com/digital-language-divide/)
 - [Creative Writing and Translation - An interdisciplinary approach](https://multilingual.com/issues/october-2023/creative-writing-and-translation/)
 - [Large language models: A guide on its benefits, use cases, and types](https://yellow.ai/blog/large-language-models/)
@@ -134,7 +136,7 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 - [archive.org](https://archive.org/details/booksbylanguage_telugu) - Telugu : Books by Language.
 - [Free Gurukul](https://www.freegurukul.org/#home) - ఉచిత గురుకుల విద్య ఫౌండేషన్.
 - [స్తోత్రనిధి](https://stotranidhi.com/stotras-list-telugu/) - To collect sanskrit stotras and translate them to Telugu.
-- [ai4bharat](https://ai4bharat.iitm.ac.in/) 
+- [ai4bharat](https://ai4bharat.iitm.ac.in/)
   - [Areas](https://ai4bharat.iitm.ac.in/areas/)
     - Translation
     - Transliteration
@@ -191,7 +193,7 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
 3. [Hindi Shabdamitra](https://www.cfilt.iitb.ac.in/hindishabdamitra/) - [A Wordnet based E-Learning Tool for Language Learning and Teaching](https://aclanthology.org/W17-5904.pdf) by Hanumant Redkar, Sandhya Singh, Meenakshi Somasundaram, Dhara Gorasia, Malhar Kulkarni and Pushpak Bhattacharyya - Center for Indian Language Technology, Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Mumbai, India.
 4. [The WordNet in Indian Languages](https://www.academia.edu/70092605/The_WordNet_in_Indian_Languages)
 5. [Using Parallel Corpora for Language Learning](https://www.researchgate.net/publication/328094165_Using_Parallel_Corpora_for_Language_Learning) by Michael H. Brown, Kanda Institute of Foreign Languages in Tokyo, Japan.
-   - (another aricle) [Language Learning via Parallel Corpora](https://lexplorers.com/language-learning-via-parallel-corpora/). 
+   - (another aricle) [Language Learning via Parallel Corpora](https://lexplorers.com/language-learning-via-parallel-corpora/).
 6. [Learning in Parallel: Using Parallel Corpora to Enhance Written Language Acquisition at the Beginning Level](https://files.eric.ed.gov/fulltext/EJ1080263.pdf) by Brody Bluemel, The Pennsylvania State University.
 7. [CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf) by Devansh Gautam, Prashant Kodali, Kshitij Gupta, Anmol Goel, Manish Shrivastava, Ponnurangam Kumaraguru - International Institute of Information Technology Hyderabad & Indraprastha Institute of Information Technology Delhi & Guru Gobind Singh Indraprastha University, Delhi
 8. [The LTRC Hindi-Telugu Parallel Corpus](https://aclanthology.org/2022.lrec-1.365.pdf) by Vandan Mujadia, Dipti Misra Sharma, MT-NLP Lab, LTRC, KCIS, IIIT-Hyderabad, India.
@@ -203,57 +205,89 @@ Sai Kumar Yava](https://github.com/scionoftech/). English-Telugu-Bilingual-Sente
         Date: 1st of June 2023
         Jönköping University 2023
     ```
-10. [The Duolingo Method for App-based Teaching and Learning](https://duolingo-papers.s3.amazonaws.com/reports/duolingo-method-whitepaper.pdf) by Cassie Freeman, Audrey Kittredge, Hope Wilson, and Bozena Pajak - Duolingo Research Report
-11. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
-12. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
-13. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
-14. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
-15. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
-16. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
-17. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
-18. [Identifying Context-Dependent Translations for Evaluation Set Production](https://aclanthology.org/2023.wmt-1.42.pdf)
+
+10. [Exploring Persuasive Design Elements in Duolingo](https://uu.diva-portal.org/smash/get/diva2:1801041/FULLTEXT01.pdf)
+11. [The Duolingo Method for App-based Teaching and Learning](https://duolingo-papers.s3.amazonaws.com/reports/duolingo-method-whitepaper.pdf) by Cassie Freeman, Audrey Kittredge, Hope Wilson, and Bozena Pajak - Duolingo Research Report
+12. [A Novel Approach to Telugu Stemming Using N-gram Process](https://serialsjournals.com/abstract/49760_13.pdf) by N.V. Ganapathi Raju (Associate Professor, Dept. of CSE, GRIET, Hyderabad, INDIA.), Chinta Someswara Rao (Assistant Professor, Dept. of CSE, SRKR Engineering College, Bhimavaram, INDIA.) and G. Meghana (P.G. Scholar, GRIET, Hyderabad, INDIA).
+13. [Telugu OCR Framework using Deeplearning](https://arxiv.org/pdf/1509.05962.pdf) by Rakesh Achanta, and Trevor Hastie - Stanford University.
+14. [Building specialised corpora for translation studies](https://www.coli.uni-saarland.de/conf/muco03/izwaini.pdf) by Sattar Izwaini, Centre for Computational Linguistics, UMIST, PO Box 88, Manchester M60 1QD, UK.
+15. [Building parallel corpora for eContent professionals](https://aclanthology.org/W04-2213.pdf) by M. Gavrilidou, P. Labropoulou, E. Desipri, V. Giouli, V. Antonopoulos, S. Piperidis, Institute for Language and Speech Processing.
+16. Text Simplification - [Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings](https://aclanthology.org/C16-1109.pdf)
+17. Text Summarisation - [Using Parallel Corpora for Multilingual (Multi-document) Summarisation Evaluation](https://link.springer.com/chapter/10.1007/978-3-642-15998-5_7)
+18. [Co-Writing Screenplays and Theatre Scripts with Language Models](https://arxiv.org/pdf/2209.14958.pdf).
+19. [Identifying Context-Dependent Translations for Evaluation Set Production](https://aclanthology.org/2023.wmt-1.42.pdf)
     ```text
         Rachel Wicks 1,2 and Matt Post 1−3
-    
+
         1. Human Language Technology Center of Excellence, Johns Hopkins University
         2. Center of Language and Speech Processing, Johns Hopkins University
         3. Microsoft rewicks@jhu.edu, mattpost@microsoft.com
     ```
-19. [Enabling Code-Mixed Translation: Parallel Corpus Creation and MT Augmentation Approach](https://aclanthology.org/W18-3817.pdf) 
+20. [Enabling Code-Mixed Translation: Parallel Corpus Creation and MT Augmentation Approach](https://aclanthology.org/W18-3817.pdf)
     ```text
         By:
         1. Mrinal Dhar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
         2. Vaibhav Kumar, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
         3. Manish Shrivastava, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India
     ```
-20. [Sentiment Analysis in Code-Mixed Telugu-English Text with Unsupervised Data Normalization](https://aclanthology.org/2021.ranlp-1.86.pdf)
+21. [Sentiment Analysis in Code-Mixed Telugu-English Text with Unsupervised Data Normalization](https://aclanthology.org/2021.ranlp-1.86.pdf)
     ```text
         By:
         1. Kusampudi Siva Subrahamanyam Varma, Language Technologies Research Centre, IIIT Hyderabad, India.
         2. Preetham Sathineni, Language Technologies Research Centre, IIIT Hyderabad, India.
         3. Radhika Mamidi, Language Technologies Research Centre, IIIT Hyderabad, India.
     ```
-21. [Development of Telugu-Tamil Transfer-Based Machine Translation system: With Special reference to Divergence Index](https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_07.pdf)
+22. [Development of Telugu-Tamil Transfer-Based Machine Translation system: With Special reference to Divergence Index](https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_07.pdf)
     ```text
         By K. Parameswari, Centre for Applied Linguistics and Translation Studies, University of Hyderabad
     ```
-22. [A Rule-based Dependency Parser for Telugu: An Experiment with Simple Sentences](https://www.ntm.org.in/download/ttvol/volume15-1/MT%202.pdf)
+23. [A Rule-based Dependency Parser for Telugu: An Experiment with Simple Sentences](https://www.ntm.org.in/download/ttvol/volume15-1/MT%202.pdf)
     ```text
         By:
         1. SANGEETHA P., PARAMESWARI K.
         2. AMBA KULKARNI
     ```
-23. [Computational Morphology for Telugu](https://www.researchgate.net/publication/329097305_Computational_Morphology_for_Telugu)
+24. [Computational Morphology for Telugu](https://www.researchgate.net/publication/329097305_Computational_Morphology_for_Telugu)
     ```text
         By:
         1. B. Srinivasu, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
         2. R. Manivannan, Department of Computer Science and Engineering, Stanley College of Engineering and Technology for Women, Hyderabad 500001, India
     ```
 
-24. [Neural Dependency Parsing of Low-resource Languages: A Case Study on Marathi](https://uu.diva-portal.org/smash/get/diva2:1671791/FULLTEXT01.pdf)
-25. [Telugu dependency parsing using different statistical parsers](https://www.sciencedirect.com/science/article/pii/S1319157815000798)
-26. [Dative Case in Telugu: A Parsing Perspective](https://aclanthology.org/W12-5612.pdf)
-27. [Parsing Hindi with MDParser ](https://aclanthology.org/W12-5615.pdf)
-28. [Two-stage Approach for Hindi Dependency Parsing Using MaltParser](https://aclanthology.org/W12-5617.pdf)
-29. [Hindi Dependency Parsing using a combined model of Malt and MST](https://aclanthology.org/W12-5618.pdf)
-30. [Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages](https://aclanthology.org/W12-5619.pdf)
+25. [Neural Dependency Parsing of Low-resource Languages: A Case Study on Marathi](https://uu.diva-portal.org/smash/get/diva2:1671791/FULLTEXT01.pdf)
+26. [Telugu dependency parsing using different statistical parsers](https://www.sciencedirect.com/science/article/pii/S1319157815000798)
+27. [Dative Case in Telugu: A Parsing Perspective](https://aclanthology.org/W12-5612.pdf)
+28. [Parsing Hindi with MDParser ](https://aclanthology.org/W12-5615.pdf)
+29. [Two-stage Approach for Hindi Dependency Parsing Using MaltParser](https://aclanthology.org/W12-5617.pdf)
+30. [Hindi Dependency Parsing using a combined model of Malt and MST](https://aclanthology.org/W12-5618.pdf)
+31. [Ensembling Various Dependency Parsers: Adopting Turbo Parser for Indian Languages](https://aclanthology.org/W12-5619.pdf)
+
+- [TeSum: Human-Generated Abstractive Summarization Corpus for Telugu](https://aclanthology.org/2022.lrec-1.614.pdf)
+- [When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-Learning App](https://arxiv.org/pdf/2203.16175.pdf)
+
+- [The Use of Corpora in Translation Into the Second Language: A Project-Based Approach](https://www.frontiersin.org/articles/10.3389/feduc.2022.849056/full)
+
+- [UI & UX Case study: Duolingo](https://bootcamp.uxdesign.cc/a-ux-ui-case-study-on-duolingo-9ae6033ff0c)
+- [Duolingo's Intuitive Platform Guides Users Along Their Language-Learning Journey, Fostering A Pleasant UX](https://www.designrush.com/best-designs/apps/duo-lingo)
+- [LottieFiles - DuoLingo](https://lottiefiles.com/case-studies/duolingo)
+- [The Duolingo Method for App-based Teaching and Learning](https://duolingo-papers.s3.amazonaws.com/reports/duolingo-method-whitepaper.pdf)(whitepaper)
+
+
+- [How Does Duolingo Integrates Emotional Design](https://francis-press.com/uploads/papers/fLOKyZsNCeymAF2NmWktDXHkh3OYG2DJGaApTr7k.pdf)
+
+- [STORYTELLING TOOLKIT](https://static.sustainability.asu.edu/giosMS-uploads/sites/2/2018/03/MoMs_storytelling_toolkit_DCDCedit.pdf)
+
+- [Storytelling](https://www.adb.org/sites/default/files/publication/27637/storytelling.pdf)
+
+- [Storytelling - Teaching](https://scert.assam.gov.in/sites/default/files/swf_utility_folder/departments/scert_medhassu_in_oid_6/portlet/level_2/EE05_V2_0.pdf)
+
+- [A CONCEPTUAL FRAMEWORK FOR INTERACTIVE CARTOGRAPHIC STORYTELLING](https://essay.utwente.nl/85868/1/LandaverdeCortes.pdf)
+
+- [How to build a controllable writing assistant for novel authors](https://towardsdatascience.com/how-to-build-a-controllable-writing-assistant-for-novel-authors-a9fa15b57c6a) - Use Transfer Learning and OpenAI GPT2 to build a state-of-the-art text generation tool, embedded in an open source interface
+
+- [Unsupervised Stemming based Language Model for Telugu Broadcast News Transcription](https://arxiv.org/pdf/1908.03734.pdf)
+- [The Linguacuisine Project: A Cookingbased Language Learning Application](https://files.eric.ed.gov/fulltext/EJ1257504.pdf)
+
+- [HOW TO USE YOUR LOVE OF COOKING AND FOOD TO LEARN A NEW LANGUAGE](https://blog.pimsleur.com/2020/11/04/language-learning-through-cooking-and-food/)
+
+- [An Open Source Movement Led to India’s First Telugu SLM](https://analyticsindiamag.com/an-open-source-movement-led-to-indias-first-telugu-slm/)
